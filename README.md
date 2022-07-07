@@ -1,7 +1,7 @@
 ﻿### Hi there, I'm Mark! I currently work for ACD Direct!  👋
 
 ## I'm a Husband, Father, Veteran, and Developer!
-- 🔭 I’m currently working on a Java Course!
+- 🔭 I’m currently working on a Cloud practitior !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to be a better software engineer by continuing my education with LearnKey(thanks to the VA) and Pluralsight(thanks ACD Direct)! 
 - 🥅 2020 Goals: Contribute more to work projects
