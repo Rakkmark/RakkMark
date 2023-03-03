@@ -1,4 +1,4 @@
-﻿### Hi there, I'm Mark! I currently work for ACD Direct!  👋
+﻿### Hi there, I'm Mark!  👋
 
 ## I'm a Husband, Father, Veteran, and Developer!
 - 🔭 I’m currently working on a Cloud practitior !
